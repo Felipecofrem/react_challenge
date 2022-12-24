@@ -1,0 +1,30 @@
+p {
+    color: #ccc
+}
+
+img {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.card-img-top {
+    width: 10rem;
+    height: 10rem;
+}
+
+.card {
+    display: flex;
+    text-align: center;
+    padding-top: 1rem;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+a {
+    width: 6rem;
+}
